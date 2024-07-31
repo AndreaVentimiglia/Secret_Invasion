@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Turret\MainTurret.cs">
+    <Files>
+      <File FileName="Assets\Script\Manager\SoundManager.cs" Line="28" Column="30" />
+      <File FileName="Assets\Script\Turret\ShootingTurret.cs" Line="5" Column="35" />
+      <File FileName="Assets\Script\Static\SaveGame.cs" Line="28" Column="3" />
+      <File FileName="Assets\Script\Manager\MenuManager.cs" Line="13" Column="20" />
+      <File FileName="Assets\Script\Turret\MachineGun.cs" Line="5" Column="32" />
+      <File FileName="Assets\Script\Turret\MainTurret.cs" Line="19" Column="36" />
+      <File FileName="Assets\Script\Manager\PlayerTurretManager.cs" Line="15" Column="68" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

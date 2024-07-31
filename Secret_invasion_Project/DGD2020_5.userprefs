@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Enemy\Enemy.cs">
+    <Files>
+      <File FileName="Assets\Script\Turret\TargetEnemy.cs" Line="51" Column="30" />
+      <File FileName="Assets\Script\Enemy\Health.cs" Line="7" Column="2" />
+      <File FileName="Assets\Script\Turret\HitBullet.cs" Line="18" Column="28" />
+      <File FileName="Assets\Script\Turret\MoveBullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Enemy\EnemyMovement.cs" Line="11" Column="3" />
+      <File FileName="Assets\Script\Turret\MainTurret.cs" Line="8" Column="8" />
+      <File FileName="Assets\Script\Turret\ShootingTurret.cs" Line="23" Column="4" />
+      <File FileName="Assets\Script\Turret\MachineGun.cs" Line="9" Column="2" />
+      <File FileName="Assets\Script\Enemy\Enemy.cs" Line="22" Column="3" />
+      <File FileName="Assets\Script\Enemy\GroundEnemy.cs" Line="12" Column="3" />
+      <File FileName="Assets\Script\Enemy\Buggy.cs" Line="15" Column="3" />
+      <File FileName="Assets\Script\Enemy\Helicopter.cs" Line="7" Column="2" />
+      <File FileName="Assets\Script\Enemy\FlyingEnemy.cs" Line="7" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
