@@ -1,4 +1,4 @@
-# Secret invasion
+# Secret Invasion
 
 ## Description 
 Developing a 2D video game with Unity. 
